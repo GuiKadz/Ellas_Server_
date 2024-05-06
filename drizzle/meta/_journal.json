@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714311897283,
+      "tag": "0000_lonely_slapstick",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1714337435768,
+      "tag": "0001_previous_argent",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1714620715438,
+      "tag": "0002_reflective_satana",
+      "breakpoints": true
+    }
+  ]
+}
